@@ -4,9 +4,6 @@
 ![Hydra](https://img.shields.io/badge/Hydra-Configuration%20Management-blue)
 ![MLflow](https://img.shields.io/badge/MLflow-Experiment%20Tracking-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
-![Seaborn](https://img.shields.io/badge/Seaborn-Data%20Visualization-blue)
 
 # 🩺 Obesity Level Classification – Machine Learning Project
 
