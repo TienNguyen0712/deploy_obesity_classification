@@ -1,0 +1,22 @@
+# Thao tác dữ liệu 
+pandas
+
+# Tiền xử lý và lưu trữ
+pyarrow
+fastparquet
+
+# Định nghĩa và giám sát
+hydra-core
+
+# Thư viện thực hiện chuyển đổi dữ liệu 
+numpy 
+
+# Thực hiện trực quan hóa 
+matplotlib
+seaborn 
+
+# Thực hiện mô hình học máy 
+scikit-learn
+
+# Quản lý phiên bản mô hình & Đánh giấu tham số
+mlflow
