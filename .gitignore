@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Hydra
+outputs/
+multirun/
+
+# MLflow
+mlruns/
+
+# Logs
+*.log
+logs/
+
+# Python model artifacts
+*.pkl
+*.pickle
+*.joblib
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
