@@ -1,9 +1,9 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Academic%20Project-orange)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-ML-yellow)
-![Hydra](https://img.shields.io/badge/Hydra-Configuration%20Management-blue)
-![MLflow](https://img.shields.io/badge/MLflow-Experiment%20Tracking-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue)
+![Hydra](https://img.shields.io/badge/Hydra-Configuration%20Management-purple)
+![MLflow](https://img.shields.io/badge/MLflow-Experiment%20Tracking-0194E2)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458)
 
 # 🩺 Obesity Level Classification – Machine Learning Project
 
