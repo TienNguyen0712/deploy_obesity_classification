@@ -1,0 +1,10 @@
+# config/config.yaml
+
+defaults:
+  - features
+  - preprocessing
+  - models
+  - _self_
+
+paths:
+  data_path: "data/data_obesity.csv"

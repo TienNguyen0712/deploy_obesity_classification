@@ -1,0 +1,57 @@
+# Đổi tên các cột dữ liệu
+rename_columns:
+  NObeyesdad: obesity_level
+  Gender: gender
+  Age: age
+  Height: height
+  Weight: weight
+  FAVC: freq_high_calories_food
+  FCVC: freq_of_vegetable
+  NCP: number_of_main_meal
+  CAEC: food_between_meal
+  SMOKE: smoking
+  CH2O: daily_water
+  SCC: monitors_calories_daily
+  FAF: freq_of_physical_activity
+  TUE: time_using_technology
+  CALC: freq_of_alcohol
+  MTRANS: transportation
+
+# Chuyển đổi giá trị các đặc trưng
+value_mapping:
+  gender:
+    Female: female
+    Male: male
+
+  food_between_meal:
+    Sometimes: sometimes
+    Frequently: frequently
+    Always: always
+
+  freq_high_calories_food:
+    No: no
+    Sometimes: sometimes
+    Frequently: frequently
+    Always: always
+
+  freq_of_alcohol:
+    No: no
+    Sometimes: sometimes
+    Frequently: frequently
+    Always: always
+
+  transportation:
+    Automobile: automobile
+    Public_Transportation: public_transportation
+    Bike: bike
+    Walking: walking
+    Motorbike: motorbike
+
+  obesity_level:
+    Normal_Weight: normal
+    Overweight_Level_I: overweight_I
+    Overweight_Level_II: overweight_II
+    Obesity_Type_I: obesity_I
+    Obesity_Type_II: obesity_II
+    Obesity_Type_III: obesity_III
+    Insufficient_Weight: insufficient_weight

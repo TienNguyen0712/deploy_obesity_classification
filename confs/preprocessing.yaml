@@ -1,0 +1,38 @@
+# Quy tắc chia
+test_size: 0.2
+random_state: 42
+stratify: True
+
+# Cột mục tiêu
+target_column: "obesity_level"
+
+# Các cột cần loại bỏ
+drop_columns:
+  - "index"
+
+# Các biến phân loại
+categorical_features:
+  - "gender"
+  - "freq_high_calories_food"
+  - "freq_of_alcohol"
+  - "monitors_calories_daily"
+  - "smoking"
+  - "family_history_with_overweight"
+  - "food_between_meal"
+  - "transportation"
+
+# Các biến số
+numerical_features:
+  - "age"
+  - "height"
+  - "weight"
+  - "freq_of_vegetable"
+  - "number_of_main_meal"
+  - "daily_water"
+  - "freq_of_physical_activity"
+  - "time_using_technology"
+
+# Phương thức encoder
+encoding:
+  method: onehot
+  handle_unknown: ignore
