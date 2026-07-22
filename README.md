@@ -7,7 +7,10 @@
 
 # 🩺 Obesity Level Classification – Machine Learning Project
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1aunwX-5oDu6_U14e7giLaKaicYccoC0E/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aunwX-5oDu6_U14e7giLaKaicYccoC0E#scrollTo=t6ekZTWukdzO)
+
+
+
 
 ## 📌 Giới thiệu
 
