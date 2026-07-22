@@ -7,6 +7,8 @@
 
 # 🩺 Obesity Level Classification – Machine Learning Project
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1aunwX-5oDu6_U14e7giLaKaicYccoC0E/view?usp=sharing)
+
 ## 📌 Giới thiệu
 
 Béo phì là một vấn đề sức khỏe có liên quan đến nhiều yếu tố như đặc điểm nhân khẩu học,
