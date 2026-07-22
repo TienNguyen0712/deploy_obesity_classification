@@ -48,7 +48,6 @@ Project tập trung vào việc:
 - Xác định các đặc trưng quan trọng trong việc phân loại mức độ béo phì
 - Thực nghiệm và so sánh 5 mô hình Machine Learning
 - Áp dụng Hydra để quản lý configuration
-- Áp dụng MLflow để tracking các experiment
 - Xác định mô hình có hiệu năng tốt nhất dựa trên các metrics đánh giá
 
 ### Câu hỏi nghiên cứu
