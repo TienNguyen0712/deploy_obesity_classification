@@ -261,7 +261,7 @@ Dựa trên **Accuracy, Macro F1-score** và **Weighted F1-score**, có thể ư
 
 > **Decision Tree** là mô hình có performance tổng thể tốt nhất trong experiment hiện tại.
 
-Tuy nhiên,** Random Forest** cũng là một lựa chọn cạnh tranh với Accuracy tương đương và
+Tuy nhiên, **Random Forest** cũng là một lựa chọn cạnh tranh với Accuracy tương đương và
 Macro Precision cao hơn.
 
 Việc lựa chọn mô hình cuối cùng nên phụ thuộc vào mục tiêu triển khai thực tế,
